@@ -1,0 +1,15 @@
+Demo of using Stripe Payments in an expo React Native app, with a custom Rust backend.
+
+## Build and Run
+
+The backend:
+
+```bash
+
+```
+
+The app:
+
+```bash
+
+```
